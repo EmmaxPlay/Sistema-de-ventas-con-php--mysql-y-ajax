@@ -1,0 +1,7 @@
+Administrador
+usuario: admin
+pass: admin
+
+Vendedor
+usuario: jose
+pass: 123
